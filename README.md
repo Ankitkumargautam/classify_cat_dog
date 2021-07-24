@@ -14,4 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# classify_cat_dog
+# Youtube video tutorial link 
+
+- [How to create a pre-trained Neural Network model  step by step:](https://youtu.be/jwaM_YyjMkM)
+- [Create a flutter app with AI model step by step 2021 part-1:](https://youtu.be/E756NYb0Ppc)
+- [Create a flutter app with AI model step by step 2021 part-2:](https://youtu.be/LB_SJlvk3Rg)
+
